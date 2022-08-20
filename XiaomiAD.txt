@@ -61,3 +61,4 @@
 ||o2o.api.xiaomi.com^
 ||stat.pandora.xiaomi.com^
 ||upgrade.mishop.pandora.xiaomi.com^
+||ssl-cdn.static.browser.mi-img.com^
