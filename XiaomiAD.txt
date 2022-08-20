@@ -62,7 +62,7 @@
 ||stat.pandora.xiaomi.com^
 ||upgrade.mishop.pandora.xiaomi.com^
 ||ssl-cdn.static.browser.mi-img.com^
-
+||interface3.music.163.com^
 ! 信息流及评论区广告
 ||ctobsnssdk.com^
 ||pangolin.snssdk.com^
