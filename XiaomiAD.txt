@@ -138,17 +138,13 @@
 ||jxd524.github.io^
 ||ib-soft.net^
 ||list-app-m.i4.cn^
-||api.m.jd.com^
 ||api.jxedt.com^
 ||*.kakamobi.cn^
 ||*.kingsoft-office-service.com^
 ||api.gotokeep.com^
 ||api.kkmh.com^
 ||api.club.lenovo.cn^
-||api.m.mi.com^
-||api.jr.mi.com^
 ||api-mifit.huami.com^
-||home.mi.com^
 ||api.mgzf.com^
 ||flowplus.meituan.net^
 ||capi.mwee.cn^
@@ -188,7 +184,6 @@
 ||4gimg.map.qq.com^
 ||r.inews.qq.com^
 ||news.ssp.qq.com^
-||mp.weixin.qq.com^
 ||m.tuniu.com^
 ||img*.10101111cdn.com^
 ||msg.umengcloud.com^
