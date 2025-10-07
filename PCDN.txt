@@ -18,11 +18,13 @@
 ||saxysec.com^
 ||szbdyd.com^
 ||tianwenca.com^
+||tpa-hcdn.iqiyi.com^
 ||uhabo.com^
 ||xycdn.com^
 ||yfcdn.net^
 ||yfcloud.com^
 ||yfp2p.net^
+||pcdn.xmcdn.com^
 ||pcdn.yximgs.com^
 dyp2p-ali.douyucdn.cn
 dyp2p-hw.douyucdn.cn
@@ -43,13 +45,12 @@ qn-cdnfile1pcdn.msstatic.com
 stun.douyucdn.cn
 stun1.douyucdn.cn
 stun.hitv.com
-||tpa-hcdn.iqiyi.com^
-||pcdn.xmcdn.com^
 
 # 正则表达式规则
 /.*pcdn.*biliapi\.net/
 /.*pcdn.*youku\.com/
 /.*p2p.*qq\.com/
+/.*p2p.*douyucdn\.cn/
 /^stun.*$/
 /^p2p.*\.qq\.com$/
 /^p2pchunk-.*\.douyucdn\.cn$/
@@ -58,4 +59,3 @@ stun.hitv.com
 /^p2p-.*\.douyucdn\.cn$/
 /-p2p\.pull\.yximgs\.com/
 /-p2p-v2\.pull\.yximgs\.com/
-/^.*p2p.*douyucdn\.cn^
