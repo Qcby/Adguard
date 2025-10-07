@@ -1,5 +1,5 @@
-# Sukka's Ruleset + SophiEZzz/anti-AD + P2P CDN 合并规则
-# 防止成为P2P CDN节点
+# Qcby 整合版
+# AdGuard Home 规则 防止你的机器成为P2P CDN节点
 
 # 域名规则
 ||7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe^
@@ -119,3 +119,4 @@ stun.hitv.com
 
 # 新增斗鱼正则规则
 /trk-([0-9\-]+)\.douyucdn\.cn/
+
